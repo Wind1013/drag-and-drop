@@ -1,5 +1,5 @@
 # drag-and-drop
-
+This is an exercise on drag and drop functionality.
 ## Project setup
 ```
 npm install
